@@ -1,0 +1,8 @@
+Number of users collected : 15
+Number of messages collected : 2025
+Number of communities discovred : 0
+Average number of users per community : 0
+Number of positive instances : 1199
+Number of negative instances : 826
+Example of positice instance : moana was a great film and made it super awesome the song you are welcome was fantastic incredible excellent etc 
+Example of negative instance : the movie moana was gangsta that crab basically said these bitches dumb dumb dumb they ll chase anything that glitters beginners 
